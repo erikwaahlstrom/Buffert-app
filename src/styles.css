@@ -1,0 +1,66 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css?family=Norican');
+
+html, body {
+height: 100vh;
+}
+
+hr {
+border: 0;
+height: 1px;
+background: #dbdbdb;
+}
+
+.main {
+height: 100vh;
+overflow-y: scroll;
+background-color: #4FA8BF;
+}
+
+.content {
+height: 100vh;
+margin: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.child-container {
+width: 80%;
+}
+
+.spacer {
+height: 80px;
+}
+
+.btn {
+text-transform: none;
+background-color: #60E4A1;
+}
+
+.material-icons {
+font-size: 30px;
+font-weight: bold;
+}
+
+.clear-btn {
+margin: 0;
+position: absolute;
+top: 1em;
+left: 1em;
+color: #FFFFFF;
+}
+
+.transfer-icon {
+width: 50px;
+height: 50px;
+position: fixed;
+bottom: 1em;
+right: 1em;
+border-radius: 50%;
+font-size: 25px;
+color: #fff;
+line-height: 50px;
+text-align: center;
+background: #C52976;
+}

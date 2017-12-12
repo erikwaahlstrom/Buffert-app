@@ -1,0 +1,20 @@
+.card-panel {
+text-align: left;
+}
+
+.agreement-heading {
+font-weight: bold;
+margin-left: 50px;
+margin-bottom: 0px;
+}
+
+.agreement-text {
+margin-top: 0px;
+margin-left: 50px;
+font-size: 12px;
+color: #979797;
+}
+
+#person-icon {
+margin: 0;
+}

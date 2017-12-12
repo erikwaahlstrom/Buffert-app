@@ -1,0 +1,30 @@
+#notifications-icon {
+margin: 0;
+position: absolute;
+top: 1em;
+right: 1em;
+color: #FFFFFF;
+}
+
+#hamburger-icon {
+margin: 0;
+position: absolute;
+top: 1em;
+left: 1em;
+color: #FFFFFF;
+}
+
+.show-buffert-icons {
+color: #FFFFFF;
+margin: 1em;
+}
+
+#show-buffert-text {
+font-size: 12px;
+color: #FFFFFF;
+}
+
+#show-buffert-heading {
+margin: 0;
+color: #FFFFFF;
+}

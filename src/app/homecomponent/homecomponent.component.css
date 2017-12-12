@@ -1,0 +1,21 @@
+.cir {
+width: 180px;
+height: 180px;
+border-radius: 50%;
+font-family: 'Norican', cursive;
+font-size: 50px;
+color: #fff;
+line-height: 180px;
+text-align: center;
+background: #C52976;
+}
+
+#info-icon {
+font-size: 30px;
+width: 30px;
+height: 30px;
+color: #FFFFFF;
+position: absolute;
+right: 0.5em;
+top: 0.5em;
+}
